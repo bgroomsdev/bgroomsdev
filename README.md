@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WTWR](https://WildRabbit2004/se_project_react), a project from my bootcamp TripleTen.
 
-- 🌱 I’m currently learning **Javascript** with the help of my tutors and fellow peers.
+- 🌱 I’m currently learning **React** with the help of my tutors and fellow peers.
 
 - 📫 You can reach me anytime through my gmail **bgroo2004@gmail.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/RyghtMaName/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="braden grooms" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1Sf4PJULbB/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="braden grooms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
