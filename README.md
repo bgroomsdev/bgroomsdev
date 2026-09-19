@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Braden</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-- 🔭 I’m currently working on [WTWR](https://bgroomsdev/se_project_react), a project from my bootcamp TripleTen.
+- 🔭 I’m currently working on [WTWR](https://bgroomsdev.github.io/se_project_react/), a project from my bootcamp TripleTen.
 
 - 🌱 I’m currently learning **React** with the help of my tutors and fellow peers.
 
